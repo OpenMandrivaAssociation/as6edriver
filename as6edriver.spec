@@ -10,6 +10,7 @@ URL: 		http://as6edriver.sourceforge.net/
 Group:		Graphics
 License: 	GPL
 Source: 	%{name}-%{version}.tar.bz2
+BuildRoot: 	%{_tmppath}/%{name}-root
 BuildRequires:	glibc-devel
 Epoch: 1
 ExclusiveArch: x86_64 %{ix86}
