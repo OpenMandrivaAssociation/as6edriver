@@ -29,7 +29,7 @@ SANE is now supported and included in sane packages.
 %setup -q 
 
 %build
-%configure
+%configure2_5x
 %make
 
 %install
