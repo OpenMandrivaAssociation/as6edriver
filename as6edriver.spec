@@ -6,7 +6,7 @@ Name: 		%{name}
 Version:	%{version}
 Release: 	%{release}
 Summary: 	Linux driver for the Artec AS6E parallel port interface scanner
-URL: 		http://as6edriver.sourceforge.net/
+URL: 		https://as6edriver.sourceforge.net/
 Group:		Graphics
 License: 	GPL
 Source: 	%{name}-%{version}.tar.bz2
